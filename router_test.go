@@ -21,8 +21,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/astaxie/beego/context"
-	"github.com/astaxie/beego/logs"
+	"github.com/ECacheFS/beego/context"
+	"github.com/ECacheFS/beego/logs"
 )
 
 type TestController struct {
