@@ -246,7 +246,7 @@ var dashboardTpl = `
 
 <title>
 
-边缘缓存服务节点
+Ge-Cache
 
 </title>
 
